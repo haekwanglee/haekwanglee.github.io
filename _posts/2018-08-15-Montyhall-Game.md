@@ -8,6 +8,6 @@ categories: Project
 cover:  "/assets/instacode.png"
 ---
 
-<img src="/assets/20180815_21" title="Montyhall in 21 movie.">
+<img src="/assets/20180815_21.jpg" title="Montyhall in 21 movie.">
 
 It is my first project.
