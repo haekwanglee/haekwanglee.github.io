@@ -9,7 +9,7 @@ cover:  "/assets/instacode.png"
   
     
       
-My first blog post, first project, step.
+My first blog post, first project, step.  
 This is what I got from my old storage, I've lost other things.   
   
     
