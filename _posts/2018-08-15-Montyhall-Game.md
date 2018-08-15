@@ -8,6 +8,6 @@ categories: Project
 cover:  "/assets/instacode.png"
 ---
 
-![21](../assets/20180815_21.jpg)
+![21](/assets/res/20180815_21.jpg)
 
 It is my first project.
