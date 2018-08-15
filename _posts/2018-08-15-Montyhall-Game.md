@@ -8,8 +8,6 @@ categories: Project
 cover:  "/assets/instacode.png"
 ---
 
-<a href="/assets/20180815_21" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
-  <img src="/assets/20180815_21" title="Check out the Falcon 9 from SpaceX">
-</a>
+<img src="/assets/20180815_21" title="Montyhall in 21 movie.">
 
 It is my first project.
