@@ -12,6 +12,8 @@ exclude:
 title: Haekwang Lee
 subtitle: "My github blog"
 email: haekwangl@gmail.com
+description: >
+  My fitst github blog
 name: Haekwang Lee
 
 # Base URL of site (i.e. /blog). It should always start with a slash,
