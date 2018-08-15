@@ -6,9 +6,14 @@ author: Haekwang
 categories: Project
 cover:  "/assets/instacode.png"
 ---
-
+  
+    
+      
 My first blog post, first project, step.
-
+This is what I got from my old storage, I've lost other things.   
+  
+    
+      
 [montyhallgame](/assets/res/20180815/montyhall.exe)  
 It is my first c++ program.  
 Montyhall game in 21 movie.   
@@ -19,6 +24,6 @@ It is my first c# window program.
 ![image viewer](/assets/res/20180815/20180815_image.png)    
 Image viewer C# window program.  
    
-This is what I got from my old storage, I've lost other things.  
+
 
 
