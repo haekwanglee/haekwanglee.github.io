@@ -9,24 +9,26 @@ cover:  "/assets/instacode.png"
   
     
       
-My first blog post, first project, step.  
+Hello my first blog post.  
+It is my first projects, steps.  
 This is what I got from my old storage, I've lost other things.   
   
-    
       
-[montyhallgame](/assets/res/20180815/montyhall.exe)  
 It is my first c++ program.  
-Montyhall game in 21 movie.   
+Montyhall game in 21 movie.         
+[montyhallgame](/assets/res/20180815/montyhall.exe)  
+
       
         
           
 [window c# program](/assets/res/20180815/nodoubt.exe)    
 It is my first c# window program.    
   
-    
-  
+     
+     
+Image viewer C# window program.     
 ![image viewer](/assets/res/20180815/20180815_image.png)    
-Image viewer C# window program.  
+
    
 
 
