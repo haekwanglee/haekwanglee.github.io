@@ -1,12 +1,4 @@
----
-layout: post
-title:  "First post"
-date:   2018-08-15
-author: Haekwang
-categories: Project
-cover:  "/assets/instacode.png"
----
-  
+
     
       
 Hello my first blog post.  
