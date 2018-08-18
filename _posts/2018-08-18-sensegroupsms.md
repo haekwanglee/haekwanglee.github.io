@@ -12,5 +12,5 @@ Android mobile.
      
 SenseGroupSMS is smart group sms appliation based android 2.3,      
 T stroe market and downloaded over 90,000.    
-<img src="/assets/res/20180818/20180818_2_1.png" alt="image1" width="600px"/>  
+<img src="/assets/res/20180818/20180818_2_1.PNG" alt="image1" width="600px"/>  
     
