@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fast Keypad System"
-date:   2018-08-18
+date:   2018-08-19
 author: Haekwang
 categories: Project
 cover:  "/assets/instacode.png"
