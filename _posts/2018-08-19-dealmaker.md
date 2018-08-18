@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deal Maker"
-date:   2018-08-19 01:42:00
+date:   2018-08-19
 author: Haekwang
 categories: Project
 cover:  "/assets/instacode.png"
