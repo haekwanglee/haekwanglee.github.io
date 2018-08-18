@@ -15,7 +15,7 @@ Netfrigerator is smart refrigerator system.
 User can manage food items with QR code tagging.  
 Also provided mobile application so user can check refrigerator outside the house.  
     
-<img src="/assets/res/20180818/20180818_1.png" alt="image1" width="200px"/>  
+<img src="/assets/res/20180818/20180818_1.png" alt="image1" width="700px"/>  
    
 ![image2](/assets/res/20180818/20180818_2.png){: width=300px height=300px}       
   
