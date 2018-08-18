@@ -13,7 +13,7 @@ Android mobile.
 Promotion application.   
 Media player, SNS features.  
      
-<img src="/assets/res/20180819/v_1.png" alt="image1" width="400px"/>    
-<img src="/assets/res/20180819/v_4.png" alt="image2" width="400px"/>    
-<img src="/assets/res/20180819/v_3.png" alt="image3" width="400px"/>    
+<img src="/assets/res/20180819/v_1.png" alt="image1" width="260px"/>    
+<img src="/assets/res/20180819/v_4.png" alt="image2" width="260px"/>    
+<img src="/assets/res/20180819/v_3.png" alt="image3" width="260px"/>    
     
