@@ -27,7 +27,7 @@ Also provided mobile application so user can check refrigerator outside the hous
     
 <img src="/assets/res/20180818/20180818_5.png" alt="image5" width="600px"/>   
 
-*Scenario  
+*Scenario   
   
 <img src="/assets/res/20180818/20180818_6.png" alt="image6" width="600px"/>    
   
