@@ -8,7 +8,7 @@ cover:  "/assets/instacode.png"
 ---
   
 ### 2011, Fast Keypad System.     
-# Android mobile(in charge),  
+#### Android mobile(in charge),  
 C# web server.  
          
 Fast keypad system is a new input device that makes functions utilized frequently be used for users by customizing them.     
