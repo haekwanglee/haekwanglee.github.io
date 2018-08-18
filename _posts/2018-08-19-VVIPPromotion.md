@@ -12,7 +12,7 @@ Android mobile.
      
 VVIP Promotion application.  
      
-<img src="/assets/res/20180819/v_1.PNG" alt="image1" width="400px"/>    
-<img src="/assets/res/20180819/v_2.PNG" alt="image1" width="400px"/>    
-<img src="/assets/res/20180819/v_3.PNG" alt="image1" width="400px"/>    
+<img src="/assets/res/20180819/v_1.png" alt="image1" width="400px"/>    
+<img src="/assets/res/20180819/v_2.png" alt="image2" width="400px"/>    
+<img src="/assets/res/20180819/v_3.png" alt="image3" width="400px"/>    
     
