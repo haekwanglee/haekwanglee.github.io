@@ -11,7 +11,8 @@ cover:  "/assets/instacode.png"
 Android mobile.  
      
 Promotion application.   
-Media player, SNS features.  
+Media player, SNS features.    
+  
      
 <img src="/assets/res/20180819/v_1.png" alt="image1" width="260px"/>    
 <img src="/assets/res/20180819/v_4.png" alt="image2" width="260px"/>    
