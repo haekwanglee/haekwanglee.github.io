@@ -16,7 +16,8 @@ Android device is input device of this systmem and it's connected with PC.
   
 <img src="/assets/res/20180818/20180818_3_1.bmp" alt="image1" width="300px"/>    
   
-Also it is submited to ACM Ubicomp poster.  
+Also it is submited to ACM Ubicomp poster.    
+*ACM Ubicomp 2011 Article Poster  
 <img src="/assets/res/20180818/20180818_3_2.PNG" alt="image1" width="600px"/>      
 https://dl.acm.org/citation.cfm?id=2030207&dl=ACM&coll=DL  
 
