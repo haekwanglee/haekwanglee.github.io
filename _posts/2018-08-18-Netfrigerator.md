@@ -8,8 +8,10 @@ cover:  "/assets/instacode.png"
 ---
 
 2011, Netfrigerator.  
-C# window appliaction(in charge), Android, Java Webserver, Webpage.    
-QR Code
+C# window appliaction(in charge),  
+Android mobile,  
+Java Webserver, Webpage,      
+QR Code  
    
 Netfrigerator is smart refrigerator system.  
 User can manage food items with QR code tagging.  
