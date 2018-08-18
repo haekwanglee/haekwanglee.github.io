@@ -29,11 +29,11 @@ Also provided mobile application so user can check refrigerator outside the hous
 
 *Scenario   
   
-<img src="/assets/res/20180818/20180818_6.png" alt="image6" width="600px"/>    
+<img src="/assets/res/20180818/20180818_6.PNG" alt="image6" width="600px"/>    
   
-<img src="/assets/res/20180818/20180818_7.png" alt="image7" width="600px"/>    
+<img src="/assets/res/20180818/20180818_7.PNG" alt="image7" width="600px"/>    
   
-<img src="/assets/res/20180818/20180818_8.png" alt="image8" width="600px"/>     
+<img src="/assets/res/20180818/20180818_8.PNG" alt="image8" width="600px"/>     
    
-<img src="/assets/res/20180818/20180818_9.png" alt="image9" width="600px"/>    
+<img src="/assets/res/20180818/20180818_9.PNG" alt="image9" width="600px"/>    
 
