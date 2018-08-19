@@ -10,6 +10,8 @@ cover:  "/assets/instacode.png"
 ### 2012, Deal Maker  
 Android modbile(in charge),  
 Java webserver(in charge).  
+Googld map, SNS, Messenger feature. 
+  
   
 Deal Maker is used items trading SNS application.  
   
