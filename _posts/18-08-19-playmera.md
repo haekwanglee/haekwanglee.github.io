@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Playmera"
+date:   2018-08-19 21:42
+author: Haekwang
+categories: Project
+cover:  "/assets/instacode.png"
+---
+  
+### 2012, Playmera  
+Android mobile(in charge),  
+OpenCV 2.4 for android.
+
+Playmera is entertainment camera application using augmented reality.  
+Using OpenCV 2.4 library.  
+Actually it is just for fun and college assignment. Also using my propose project.  
+But I lost my code from my PC..  
+
+
+  
+<img src="/assets/res/20180819/playmera_1.jpg" alt="image1" width="280px"/>   
+<img src="/assets/res/20180819/playmera_2.PNG" alt="image2" width="280px"/>  
+<img src="/assets/res/20180819/playmera_3.PNG" alt="image3" width="280px"/>   
+<img src="/assets/res/20180819/playmera_4.PNG" alt="image4" width="280px"/>   
